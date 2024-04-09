@@ -14,3 +14,17 @@ title: "Publish"
 
 For exercises in this module we'll use documents that you prepared as part of your homework assignment: [Homework 2: About page](../0-3-homework/).
 
+### Publish to Quarto
+
+- open quarto.pub and sign in
+- back to Posit Cloud
+- Open Terminal
+- write: quarto publish
+- enter
+- yes
+- click URL
+- Allow and close tav
+- Site name: website
+- Wait
+- Show new file
+- Open site
