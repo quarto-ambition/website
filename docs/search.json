@@ -553,7 +553,7 @@
     "href": "2-3-publish/index.html#exercises",
     "title": "Publish",
     "section": "Exercises",
-    "text": "Exercises\nFor exercises in this module we’ll use documents that you prepared as part of your homework assignment: Homework 2: About page.",
+    "text": "Exercises\nFor exercises in this module we’ll use documents that you prepared as part of your homework assignment: Homework 2: About page.\n\nPublish to Quarto\n\nopen quarto.pub and sign in\nback to Posit Cloud\nOpen Terminal\nwrite: quarto publish\nenter\nyes\nclick URL\nAllow and close tav\nSite name: website\nWait\nShow new file\nOpen site",
     "crumbs": [
       "Day 2",
       "Publish"
@@ -592,7 +592,7 @@
     "href": "2-3-publish/2-3-publish.html#our-turn",
     "title": "Publish",
     "section": "Our turn",
-    "text": "Our turn\n\nLet’s now publish our website to GitHub Pages.\n\nOpen your website project on Posit Cloud\n\n\n\n\n\n−+\n05:00"
+    "text": "Our turn\n\nLet’s now publish our website to GitHub Pages.\n\nOpen your website project on Posit Cloud\nFollow along on the screen\n\n\n\n\n\n−+\n05:00"
   },
   {
     "objectID": "2-3-publish/2-3-publish.html#learn-more",

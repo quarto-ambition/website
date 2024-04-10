@@ -55,6 +55,8 @@ knitr::include_graphics("images/screenshot-gh-pages.png")
 Let's now publish our website to GitHub Pages.
 
 -   Open your website project on Posit Cloud
+- Follow along on the screen
+
 :::
 
 ```{r}
